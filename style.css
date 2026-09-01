@@ -1,0 +1,65 @@
+/* Rotorfolio site — the app's vocabulary: quiet grounds, one rose-gold accent
+   borrowed from the icon's rotor, type separated by weight and tracking. */
+:root {
+  --ground: #f7f7f7;
+  --surface: #ffffff;
+  --primary: #141414;
+  --secondary: #737373;
+  --hairline: #e0e0e0;
+  --accent: #c99c7a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ground: #121212;
+    --surface: #1f1f1f;
+    --primary: #f2f2f2;
+    --secondary: #999999;
+    --hairline: #383838;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--primary);
+  font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 680px; margin: 0 auto; padding: 56px 24px 96px; }
+header { text-align: center; margin-bottom: 56px; }
+.mark {
+  width: 72px; height: 72px; border-radius: 16px; display: block;
+  margin: 0 auto 16px; box-shadow: 0 2px 14px rgba(0,0,0,.18);
+}
+.wordmark {
+  font-size: 15px; font-weight: 600; letter-spacing: 2.6px;
+  text-transform: uppercase; margin: 0;
+}
+.tagline { color: var(--secondary); font-size: 15px; margin: 6px 0 0; }
+nav { margin-top: 22px; font-size: 15px; }
+nav a { margin: 0 10px; }
+h1 { font-size: 27px; font-weight: 600; letter-spacing: -.2px; margin: 0 0 6px; }
+h2 {
+  font-size: 12px; font-weight: 600; letter-spacing: 1.4px;
+  text-transform: uppercase; color: var(--secondary);
+  margin: 44px 0 12px;
+}
+h3 { font-size: 17px; font-weight: 600; margin: 28px 0 4px; }
+p, li { color: var(--primary); }
+.lede { font-size: 19px; color: var(--secondary); margin: 0 0 8px; }
+.updated { color: var(--secondary); font-size: 14px; margin: 0 0 8px; }
+a { color: var(--accent); text-decoration: none; border-bottom: 1px solid rgba(201,156,122,.35); }
+a:hover { border-bottom-color: var(--accent); }
+code {
+  font: 15px ui-monospace, SFMono-Regular, Menlo, monospace;
+  background: var(--surface); border: 1px solid var(--hairline);
+  border-radius: 5px; padding: 1px 6px; color: var(--accent);
+}
+section.card {
+  background: var(--surface); border: 1px solid var(--hairline);
+  border-radius: 14px; padding: 4px 22px 22px; margin-top: 12px;
+}
+footer {
+  margin-top: 64px; padding-top: 24px; border-top: 1px solid var(--hairline);
+  color: var(--secondary); font-size: 13px; line-height: 1.6;
+}
