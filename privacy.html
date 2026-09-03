@@ -32,22 +32,33 @@
 <p>Everything you enter — watches, references, notes, prices, currencies, serial numbers, boutiques, salespeople, dates, accuracy readings and the photographs you take or choose — is written to the app’s own private storage on your device.</p>
 <p>None of it is transmitted anywhere. It is included in your device’s iCloud or computer backup if you have backups switched on, in which case it is covered by Apple’s terms and not by anything the developer controls.</p>
 <p>You can export all of it at any time as a JSON file to a location you choose in the Files app. That export is yours; the app does not upload it.</p>
+<p>The widgets and the Apple Watch app show a small summary — watch names, references and how long you have been waiting, never prices or serial numbers. That summary is stored in the app’s own shared container on your iPhone and, for the Apple Watch, sent to your watch over the private connection between the two devices. It does not pass through any server.</p>
 </section>
 
 <h2>Permissions the app asks for</h2>
 <section class="card">
 <h3>Camera</h3>
-<p>Only when you choose to photograph a watch. Photographs are saved into the app’s own storage.</p>
+<p>Only when you choose to photograph a watch, or to read a reference number off a warranty card or caseback. Photographs are saved into the app’s own storage. Reading a reference happens entirely on the device; the image is not kept and not sent anywhere.</p>
 <h3>Photo library</h3>
 <p>When you choose a picture for a watch, the system photo picker runs outside the app and hands over only the image you selected. The app cannot see the rest of your library.</p>
 <h3>Notifications</h3>
 <p>Only if you set a check-in reminder for a watch you are waiting on. Reminders are scheduled locally on the device. Nothing is sent through any server, including Apple’s push service.</p>
+<h3>Face ID or Touch ID</h3>
+<p>Only if you switch on the app lock. The check is performed by iOS; the app learns whether it succeeded and never sees any biometric data.</p>
 <p>Each permission is requested at the moment you first use the feature that needs it, and refusing one disables only that feature.</p>
 </section>
 
 <h2>Network requests</h2>
 <section class="card">
-<p>The app makes one kind of outbound request. When you look up a watch reference that is not in the bundled catalogue, that reference — and nothing else — is sent to <a href="https://thewatchinfo.com">The Watch Info</a> to retrieve specification data. No identifier, no account and no device information beyond what any HTTPS request necessarily carries is included, and the developer receives no record of it. Their handling of that request is governed by their own policy.</p>
+<p>Nothing you enter is ever sent anywhere. The app does make a few requests for public data, each of them either started by you or a plain download of a public file. None carries an identifier, an account, or any device information beyond what any HTTPS request necessarily carries, and the developer receives no record of any of them.</p>
+<h3>Catalogue update</h3>
+<p>Once a day, if the device is online, the app downloads the current reference catalogue — a public file on this website — so that references added since your version shipped can be found. The request asks for the file and nothing else.</p>
+<h3>Reference lookup</h3>
+<p>When you look up a reference that is not in the catalogue, that reference — and nothing else — is sent to <a href="https://thewatchinfo.com">The Watch Info</a> to retrieve specification data. Their handling of that request is governed by their own policy.</p>
+<h3>Manufacturer pages and images</h3>
+<p>If you paste a link from a manufacturer’s website, the app fetches that page to read the specifications from it. Where the catalogue knows the manufacturer’s own product photograph for a reference, the app loads that image from the manufacturer’s servers when the watch is shown. Those servers see an ordinary image request from your device, as a web browser would make.</p>
+<h3>Reference clock</h3>
+<p>When you use Set to time, the app asks a public time server (Apple’s, or the NTP pool) for the current time. The request contains no data.</p>
 <p>Every other part of the app works with the device offline.</p>
 </section>
 
