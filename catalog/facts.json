@@ -1,0 +1,483 @@
+{
+  "formatVersion": 1,
+  "generatedAt": "2026-09-12",
+  "status": "Published: checked entries only.",
+  "entries": [
+    {
+      "id": "ap-royal-oak-1972",
+      "brand": "Audemars Piguet",
+      "collection": "Royal Oak",
+      "referenceFamilies": [
+        "16202",
+        "15202",
+        "15510",
+        "15550",
+        "26240"
+      ],
+      "anchorReference": "16202ST.OO.1240ST.01",
+      "title": "The steel watch that cost more than gold",
+      "fact": "The first Royal Oak, reference 5402ST, arrived at the 1972 Basel fair: 39 mm, 7 mm thin, in steel, priced at over 3,000 Swiss francs, more than many gold dress watches of the day. Dealers thought it would never sell.",
+      "year": 1972,
+      "source": {
+        "name": "Audemars Piguet, Royal Oak heritage; Sotheby's, The Great Evolution of the Royal Oak",
+        "url": "https://www.sothebys.com/en/articles/the-great-evolution-of-the-audemars-piguet-royal-oak"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "Verified 2026-09-09: 39 mm, 7 mm, Basel 1972, CHF 3,300 at launch. Launch price is quoted as 3,300 or 3,650 CHF depending on the source; the entry avoids the exact figure on purpose.",
+      "matchedReferences": 87
+    },
+    {
+      "id": "ap-genta-one-night",
+      "brand": "Audemars Piguet",
+      "collection": "Royal Oak",
+      "referenceFamilies": [
+        "16202",
+        "15202",
+        "15510",
+        "15550"
+      ],
+      "anchorReference": "16202ST.OO.1240ST.02",
+      "title": "Designed in a night, by his own account",
+      "fact": "Gérald Genta said he drew the Royal Oak in a single night after a call from AP's distributor asking for an unprecedented steel watch for the next Basel fair. The eight hexagonal screws came from a diver's helmet he remembered from childhood.",
+      "year": 1971,
+      "source": {
+        "name": "Gérald Genta interviews as retold by Audemars Piguet and Sotheby's",
+        "url": "https://www.sothebys.com/en/articles/audemars-piguet-royal-oak-evolution-of-design-and-innovation"
+      },
+      "confidence": "medium",
+      "checked": true,
+      "note": "Verified 2026-09-09 as Genta's own account, which the wording attributes to him. Not independently corroborated and cannot be.",
+      "matchedReferences": 53
+    },
+    {
+      "id": "ap-royal-oak-name",
+      "brand": "Audemars Piguet",
+      "collection": "Royal Oak",
+      "referenceFamilies": [
+        "16202",
+        "15202",
+        "15510",
+        "15550",
+        "26240",
+        "26331"
+      ],
+      "anchorReference": "15510ST.OO.1320ST.06",
+      "title": "Named after eight warships",
+      "fact": "Royal Oak is the name of eight ships of the British Royal Navy, themselves named after the oak in which Charles II hid from Cromwell's soldiers in 1651. The octagonal bezel is often read as a porthole, though AP has never insisted on it.",
+      "year": 1972,
+      "source": {
+        "name": "Audemars Piguet heritage",
+        "url": "https://www.audemarspiguet.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 91
+    },
+    {
+      "id": "ap-2121-jlc-920",
+      "brand": "Audemars Piguet",
+      "collection": "Royal Oak",
+      "referenceFamilies": [
+        "15202"
+      ],
+      "anchorReference": "15202BA.OO.1240BA.01.A",
+      "title": "The movement three rivals shared",
+      "fact": "The original Royal Oak's calibre 2121 was AP's version of the Jaeger-LeCoultre 920, an ultra-thin automatic that the Nautilus 3700 and the Vacheron 222 also used. Three steel icons of the 1970s ran on the same base.",
+      "year": 1972,
+      "source": {
+        "name": "Widely documented; see Monochrome, 'The story of the Jaeger-LeCoultre calibre 920'",
+        "url": "https://monochrome-watches.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 8
+    },
+    {
+      "id": "ap-16202-7121",
+      "brand": "Audemars Piguet",
+      "collection": "Royal Oak",
+      "referenceFamilies": [
+        "16202"
+      ],
+      "anchorReference": "16202ST.OO.1240ST.01",
+      "title": "Fifty years, then a new heart",
+      "fact": "For the Royal Oak's fiftieth year AP retired the 2121 after five decades and gave the Jumbo a new calibre, the 7121, with a 55-hour reserve. The 16202 kept the 39 mm case and 8.1 mm height that defined the original.",
+      "year": 2022,
+      "source": {
+        "name": "Audemars Piguet, 16202ST product page",
+        "url": "https://www.audemarspiguet.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 12
+    },
+    {
+      "id": "ap-tapisserie",
+      "brand": "Audemars Piguet",
+      "collection": "Royal Oak",
+      "referenceFamilies": [
+        "16202",
+        "15202",
+        "15510",
+        "15550",
+        "26240",
+        "26331",
+        "15500"
+      ],
+      "anchorReference": "15550ST.OO.1356ST.01",
+      "title": "Cut, not stamped",
+      "fact": "Royal Oak dials are cut by a pantograph engraving machine that traces a larger master to produce the tapisserie's tiny pyramids. Petite Tapisserie on the Jumbo, Grande Tapisserie on the 41 mm: the scale of the pattern tells you the case.",
+      "year": 1972,
+      "source": {
+        "name": "Audemars Piguet, dial-making; Hodinkee Reference Points",
+        "url": "https://www.audemarspiguet.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "Verified 2026-09-09. Pattern-to-case mapping holds for current references; some historic models break it.",
+      "matchedReferences": 97
+    },
+    {
+      "id": "ap-offshore-beast",
+      "brand": "Audemars Piguet",
+      "collection": "Royal Oak Offshore",
+      "referenceFamilies": [
+        "26238",
+        "26420",
+        "26470",
+        "26480",
+        "26568"
+      ],
+      "anchorReference": "26238ST.OO.A340CA.01",
+      "title": "The Beast",
+      "fact": "The first Royal Oak Offshore, reference 25721ST, was 42 mm in 1993, huge for the time, and was nicknamed The Beast. Its designer, Emmanuel Gueit, was 22. Gérald Genta reportedly walked onto the Basel stand to say he disliked it.",
+      "year": 1993,
+      "source": {
+        "name": "Audemars Piguet heritage; Hodinkee",
+        "url": "https://www.hodinkee.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "Verified 2026-09-09: ref. 25721ST, 1993, 42 mm, Gueit was 22. The nickname was coined by Stephen Urquhart. Genta's reaction is widely reported but anecdotal; 'reportedly' stays.",
+      "matchedReferences": 30
+    },
+    {
+      "id": "ap-code-1159",
+      "brand": "Audemars Piguet",
+      "collection": "Code 11.59",
+      "referenceFamilies": [
+        "15210",
+        "15212",
+        "26393",
+        "26394",
+        "26395",
+        "26396",
+        "26397",
+        "26398",
+        "26399",
+        "26439",
+        "26441",
+        "26443",
+        "26494",
+        "26600",
+        "26601",
+        "26665",
+        "77410"
+      ],
+      "anchorReference": "15210BC.OO.A002KB.01",
+      "title": "The minute before midnight",
+      "fact": "Code 11.59 is named for the last minute before a new day, and the letters stand for Challenge, Own, Dare, Evolve. The case is a round bezel on an octagonal middle under a sapphire that curves in two directions.",
+      "year": 2019,
+      "source": {
+        "name": "Audemars Piguet, Code 11.59 collection",
+        "url": "https://www.audemarspiguet.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 100
+    },
+    {
+      "id": "pp-nautilus-1976",
+      "brand": "Patek Philippe",
+      "collection": "Nautilus",
+      "referenceFamilies": [
+        "5711",
+        "5811",
+        "5712",
+        "5726",
+        "5990",
+        "5980",
+        "7118",
+        "5740",
+        "5810"
+      ],
+      "anchorReference": "5811/1G-001",
+      "title": "Costliest watch, made of steel",
+      "fact": "The Nautilus 3700/1A of 1976 was 42 mm at a time when 36 mm was large. Patek's advertisement said: 'One of the world's costliest watches is made of steel.' Its two-part case with the hinges at three and nine o'clock came from a ship's porthole.",
+      "year": 1976,
+      "source": {
+        "name": "Patek Philippe, Nautilus history",
+        "url": "https://www.patek.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "Verified 2026-09-09. The 42 mm is measured across the case ears, which is how Patek and the press have always quoted the 3700; the case itself is nearer 40 mm. The advertisement line is genuine Patek copy of the period.",
+      "matchedReferences": 36
+    },
+    {
+      "id": "pp-genta-napkin",
+      "brand": "Patek Philippe",
+      "collection": "Nautilus",
+      "referenceFamilies": [
+        "5711",
+        "5811",
+        "5712",
+        "5726",
+        "7118"
+      ],
+      "anchorReference": "5811/1G-001",
+      "title": "Five minutes at the fair",
+      "fact": "Genta said he sketched the Nautilus in five minutes at the 1974 Basel fair, watching Patek's executives at a restaurant table, and had the design on paper before their meal ended. Two years later it was the 3700.",
+      "year": 1974,
+      "source": {
+        "name": "Gérald Genta, interviews; Patek Philippe Nautilus history",
+        "url": "https://www.patek.com/"
+      },
+      "confidence": "medium",
+      "checked": true,
+      "note": "Verified 2026-09-09 as Genta's own account; the wording attributes it to him.",
+      "matchedReferences": 24
+    },
+    {
+      "id": "pp-5711-end",
+      "brand": "Patek Philippe",
+      "collection": "Nautilus",
+      "referenceFamilies": [
+        "5711"
+      ],
+      "anchorReference": "5711/1A-010",
+      "title": "The one that ended a queue",
+      "fact": "Patek announced the end of the 5711/1A in January 2021 after fifteen years, sending in an olive-green dial as a final year and then a Tiffany-blue edition of 170 pieces. One of those sold at auction for 6.5 million dollars.",
+      "year": 2021,
+      "source": {
+        "name": "Phillips, Patek Philippe 5711/1A-018 Tiffany, December 2021",
+        "url": "https://www.phillips.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 5
+    },
+    {
+      "id": "pp-5811",
+      "brand": "Patek Philippe",
+      "collection": "Nautilus",
+      "referenceFamilies": [
+        "5811"
+      ],
+      "anchorReference": "5811/1G-001",
+      "title": "A millimetre and a clasp",
+      "fact": "The 5811/1G replaced the 5711 in 2022 at 41 mm instead of 40, in white gold only, with calibre 26-330 and a new folding clasp that adjusts the bracelet by up to four millimetres without a tool.",
+      "year": 2022,
+      "source": {
+        "name": "Patek Philippe, 5811/1G-001",
+        "url": "https://www.patek.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 2
+    },
+    {
+      "id": "pp-aquanaut-1997",
+      "brand": "Patek Philippe",
+      "collection": "Aquanaut",
+      "referenceFamilies": [
+        "5167",
+        "5168",
+        "5164",
+        "5261",
+        "5267",
+        "5268",
+        "5269",
+        "5968",
+        "5072"
+      ],
+      "anchorReference": "5167A-001",
+      "title": "The Nautilus's younger sibling",
+      "fact": "The Aquanaut arrived in 1997 as reference 5060A, aimed at a younger buyer, with a rounded octagon, an embossed dial and a composite strap Patek called Tropical, tested against salt water, ultraviolet light and wear.",
+      "year": 1997,
+      "source": {
+        "name": "Patek Philippe, Aquanaut history",
+        "url": "https://www.patek.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 18
+    },
+    {
+      "id": "pp-calatrava-1932",
+      "brand": "Patek Philippe",
+      "collection": "Calatrava",
+      "referenceFamilies": [
+        "5226",
+        "5227",
+        "6119",
+        "6007",
+        "6196",
+        "7200",
+        "4997",
+        "5088"
+      ],
+      "anchorReference": "6119G-001",
+      "title": "Bauhaus, and a cross from 1158",
+      "fact": "Reference 96 of 1932 set the Calatrava's rule: a round case, nothing that does not serve legibility, in the spirit of the Bauhaus. The name is the cross of the Calatrava knights, Patek's emblem since 1887. 1932 was also the year the Stern family bought the company.",
+      "year": 1932,
+      "source": {
+        "name": "Patek Philippe, Calatrava history",
+        "url": "https://www.patek.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "Verified 2026-09-09 against Patek's own history: the Calatrava cross was trademarked on 27 April 1887. Some secondary sources wrongly date the emblem to 1932, which is when the Stern family took control and the ref. 96 appeared.",
+      "matchedReferences": 17
+    },
+    {
+      "id": "pp-6119",
+      "brand": "Patek Philippe",
+      "collection": "Calatrava",
+      "referenceFamilies": [
+        "6119"
+      ],
+      "anchorReference": "6119G-001",
+      "title": "Clous de Paris, new movement",
+      "fact": "The 6119 of 2021 brought the hobnail bezel back to the Calatrava and a new manual calibre, the 30-255 PS, with twin barrels for a 65-hour reserve, the first new hand-wound base movement from Patek in many years.",
+      "year": 2021,
+      "source": {
+        "name": "Patek Philippe, 6119G-001",
+        "url": "https://www.patek.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 2
+    },
+    {
+      "id": "pp-5270-inhouse",
+      "brand": "Patek Philippe",
+      "collection": "Grand Complications",
+      "referenceFamilies": [
+        "5270",
+        "5271"
+      ],
+      "anchorReference": "5270P-014",
+      "title": "Perpetual chronograph, finally all Patek",
+      "fact": "For seven decades Patek's perpetual-calendar chronographs used movements built on Valjoux and then Lemania bases. The 5270 of 2011 was the first with a fully in-house calibre, the CH 29-535 PS Q, patented in six places.",
+      "year": 2011,
+      "source": {
+        "name": "Patek Philippe, 5270 product history",
+        "url": "https://www.patek.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 9
+    },
+    {
+      "id": "pp-6002-sky-moon",
+      "brand": "Patek Philippe",
+      "collection": "Grand Complications",
+      "referenceFamilies": [
+        "6002",
+        "5002"
+      ],
+      "anchorReference": "6002R-001",
+      "title": "Two dials, twelve complications",
+      "fact": "The Sky Moon Tourbillon was Patek's first double-faced wristwatch when it appeared as reference 5002 in 2001: twelve complications, including a sky chart and a minute repeater. The 6002 of 2013 added a case entirely hand-engraved.",
+      "year": 2001,
+      "source": {
+        "name": "Patek Philippe, Sky Moon Tourbillon",
+        "url": "https://www.patek.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 1
+    },
+    {
+      "id": "vc-222-1977",
+      "brand": "Vacheron Constantin",
+      "collection": "Historiques",
+      "referenceFamilies": [
+        "4200H"
+      ],
+      "anchorReference": "4200H/222A-B934",
+      "title": "Two hundred and twenty-two years, one steel watch",
+      "fact": "The 222 marked Vacheron's 222nd anniversary in 1977. Jörg Hysek, then 24, designed the notched bezel and integrated bracelet, with a small Maltese cross set into the case at five o'clock. It was the house's answer to the Royal Oak and the Nautilus.",
+      "year": 1977,
+      "source": {
+        "name": "Vacheron Constantin, Historiques 222",
+        "url": "https://www.vacheron-constantin.com/"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 2
+    },
+    {
+      "id": "vc-222-steel-2025",
+      "brand": "Vacheron Constantin",
+      "collection": "Historiques",
+      "referenceFamilies": [
+        "4200H"
+      ],
+      "anchorReference": "4200H/222A-B934",
+      "title": "The steel one came back last",
+      "fact": "Vacheron revived the 222 in yellow gold in 2022 and made collectors wait until January 2025 for steel, the metal the original was known for. Same 37 mm, same calibre 2455/2, blue dial only at launch.",
+      "year": 2025,
+      "source": {
+        "name": "Time and Watches, Vacheron Constantin Historiques 222 in stainless steel",
+        "url": "https://www.timeandwatches.com/2025/01/vacheron-constantin-historiques-222-in.html"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 2
+    },
+    {
+      "id": "vc-patrimony-2004",
+      "brand": "Vacheron Constantin",
+      "collection": "Patrimony",
+      "referenceFamilies": [
+        "85180",
+        "81180",
+        "4010U",
+        "4000U",
+        "1410U",
+        "4110U",
+        "4115U",
+        "4116U",
+        "43175",
+        "85515"
+      ],
+      "anchorReference": "85180/000G-9230",
+      "title": "The 1950s, pared back",
+      "fact": "Patrimony was launched in 2004 to revive the elegance of Vacheron's 1957 references 6187 and 6179: a slim round case, a pearl minute track, baton markers and nothing else. Its ultra-thin manual version measures under seven millimetres.",
+      "year": 2004,
+      "source": {
+        "name": "Fondation de la Haute Horlogerie, Patrimony, the ultimate in classicism",
+        "url": "https://www.hautehorlogerie.org/en/watches-and-culture/library/patrimony-the-ultimate-in-classicism-by-vacheron-constantin"
+      },
+      "confidence": "high",
+      "checked": true,
+      "note": "",
+      "matchedReferences": 24
+    }
+  ]
+}
