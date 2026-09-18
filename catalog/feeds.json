@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "sources": [
+    { "id": "hodinkee", "name": "Hodinkee", "url": "https://www.hodinkee.com/articles/rss.xml", "home": "https://www.hodinkee.com" },
+    { "id": "fratello", "name": "Fratello", "url": "https://www.fratellowatches.com/feed/", "home": "https://www.fratellowatches.com" },
+    { "id": "monochrome", "name": "Monochrome", "url": "https://monochrome-watches.com/feed/", "home": "https://monochrome-watches.com" },
+    { "id": "sjx", "name": "SJX", "url": "https://watchesbysjx.com/feed", "home": "https://watchesbysjx.com" },
+    { "id": "timeandtide", "name": "Time+Tide", "url": "https://timeandtidewatches.com/feed/", "home": "https://timeandtidewatches.com" },
+    { "id": "revolution", "name": "Revolution", "url": "https://revolutionwatch.com/feed/", "home": "https://revolutionwatch.com" },
+    { "id": "wornandwound", "name": "Worn & Wound", "url": "https://wornandwound.com/feed/", "home": "https://wornandwound.com" },
+    { "id": "ablogtowatch", "name": "aBlogtoWatch", "url": "https://www.ablogtowatch.com/feed/", "home": "https://www.ablogtowatch.com" }
+  ]
+}
